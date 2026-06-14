@@ -1,0 +1,10 @@
+{
+  "heading": "Support a Greener Future",
+  "blurb": "Your contribution helps us conserve forests, restore biodiversity and empower the communities who protect them. Every donation goes directly into our conservation and education work.",
+  "taxNote": "Treelands Foundation is a registered Section 8 non-profit. Donations are eligible for tax exemption under Section 80G (Reg. AAICT3998DF20221).",
+  "methods": [
+    { "label": "Bank Transfer", "value": "Account details to be added" },
+    { "label": "UPI", "value": "UPI ID to be added" }
+  ],
+  "cta": { "label": "Contact us to donate", "to": "/contact" }
+}

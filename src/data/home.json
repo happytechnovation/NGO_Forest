@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "eyebrow": "Forestry • Biodiversity • Climate Action",
+    "heading": "We can change the World,",
+    "highlight": "Together",
+    "subheading": "All living beings are our fellow travellers on this planet. They have as much right to live in peace and happiness as we do. Treelands Foundation works to build green, prosperous and sustainable communities.",
+    "media": "/resources/media/forest-hero.jpg",
+    "primaryCta": { "label": "Explore Our Work", "to": "/about" },
+    "secondaryCta": { "label": "Get Involved", "to": "/get-involved" }
+  },
+  "intro": {
+    "eyebrow": "Who We Are",
+    "heading": "A not-for-profit led by India's most experienced forest officers",
+    "body": [
+      "Treelands Foundation is a not-for-profit company established under Section 8 of the Companies Act, 2013. It is owned and managed by very senior retired officers with decades of field experience in Forestry, Wildlife, Biodiversity, Watershed Development, Environmental Management and Climate Change.",
+      "We use our experience and expertise to influence public policy and work with local communities and entrepreneurs — without a profit motive — to expand the natural resource base."
+    ],
+    "image": "/resources/about/areas-of-work.jpg",
+    "points": [
+      "Section 8 non-profit company",
+      "Founded by retired IFS officers",
+      "100+ years of combined field experience",
+      "Based in Karnataka, India"
+    ]
+  },
+  "vision": {
+    "icon": "Eye",
+    "title": "Our Vision",
+    "text": "To be a friend, philosopher and guide to the needy on sustainable natural resources management, climate change and eco-friendly living. Build green, prosperous and sustainable communities."
+  },
+  "mission": {
+    "icon": "Target",
+    "title": "Our Mission",
+    "text": "Motivate individuals, empower communities, conserve and expand the natural resources and build a green future through collaborative action — working with communities and entrepreneurs without a profit motive."
+  },
+  "values": [
+    {
+      "icon": "Users",
+      "title": "Experienced Team",
+      "text": "Retired senior forest officers with over a century of combined field experience guiding every project."
+    },
+    {
+      "icon": "Scale",
+      "title": "Equitable Development",
+      "text": "Prioritising the socio-economic development of tribal and local communities through natural resources."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Living in Harmony",
+      "text": "Balancing human needs with nature conservation to make Earth a happy planet for all life."
+    }
+  ]
+}

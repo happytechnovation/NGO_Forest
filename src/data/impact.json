@@ -1,0 +1,6 @@
+[
+  { "icon": "TreePine", "value": 100, "suffix": "+", "label": "Years of combined field experience" },
+  { "icon": "FolderKanban", "value": 4, "suffix": "+", "label": "Active conservation projects" },
+  { "icon": "MapPin", "value": 2, "suffix": "", "label": "Districts under medicinal-plant programmes" },
+  { "icon": "Handshake", "value": 6, "suffix": "+", "label": "Institutional & government partners" }
+]

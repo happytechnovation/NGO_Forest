@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "Building2",
+    "title": "Partner with us (CSR)",
+    "blurb": "Channel your corporate social responsibility into measurable, expertly-managed forestry and biodiversity projects.",
+    "cta": { "label": "Become a partner", "to": "/contact" }
+  },
+  {
+    "icon": "TreePine",
+    "title": "Request consultancy",
+    "blurb": "Get expert advice on forestry, wildlife, ecology, tree valuation and landscape management for your land or institution.",
+    "cta": { "label": "Request consultancy", "to": "/contact" }
+  },
+  {
+    "icon": "HandHeart",
+    "title": "Volunteer",
+    "blurb": "Join our network of volunteers spreading awareness and planting trees across communities and schools.",
+    "cta": { "label": "Volunteer with us", "to": "/contact" }
+  },
+  {
+    "icon": "Gift",
+    "title": "Donate",
+    "blurb": "Support our work to conserve and expand India's natural resource base for future generations.",
+    "cta": { "label": "Support our work", "to": "/get-involved#donate" }
+  }
+]

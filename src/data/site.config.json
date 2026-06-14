@@ -1,0 +1,31 @@
+{
+  "brand": "Treelands Foundation",
+  "shortName": "Treelands",
+  "tagline": "Your friend for all forestry related matters",
+  "description": "A Bengaluru-based not-for-profit working on forestry, wildlife, biodiversity, agroforestry and climate action — building green, prosperous and sustainable communities.",
+  "logo": "/resources/brand/emblem.png",
+  "nav": [
+    { "label": "Home", "to": "/" },
+    { "label": "About Us", "to": "/about" },
+    { "label": "Our Team", "to": "/team" },
+    { "label": "Gallery", "to": "/gallery" },
+    { "label": "Blogs", "to": "/blogs" },
+    { "label": "Get Involved", "to": "/get-involved" },
+    { "label": "Contact Us", "to": "/contact" }
+  ],
+  "whatsapp": {
+    "number": "919449851750",
+    "message": "Hello Treelands Foundation, I'd like to know more about your work."
+  },
+  "socials": [
+    { "platform": "facebook", "url": "https://facebook.com/" },
+    { "platform": "instagram", "url": "https://instagram.com/" },
+    { "platform": "linkedin", "url": "https://linkedin.com/" },
+    { "platform": "twitter", "url": "https://twitter.com/" },
+    { "platform": "whatsapp", "url": "https://wa.me/919449851750" }
+  ],
+  "seo": {
+    "title": "Treelands Foundation — Your friend for all forestry related matters",
+    "description": "Forestry, biodiversity, agroforestry and climate consultancy by retired senior forest officers. Bengaluru, Karnataka."
+  }
+}

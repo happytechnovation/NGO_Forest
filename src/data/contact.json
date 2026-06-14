@@ -1,0 +1,16 @@
+{
+  "addresses": [
+    {
+      "label": "Registered Office",
+      "value": "Treelands Foundation, 209, II Floor, Vana Vikas, 18th Cross, Malleshwaram, Bengaluru, Karnataka 560003"
+    },
+    {
+      "label": "Office",
+      "value": "Vana Vikas Building, North Wing, Ground Floor, 18th Cross, Malleshwaram, Bengaluru 560003"
+    }
+  ],
+  "phones": ["080 23464866", "080 29913571"],
+  "emails": ["admin@treelands.in", "treelandsfoundation@gmail.com"],
+  "hours": "Monday – Saturday, 10:00 AM – 5:30 PM",
+  "mapEmbedUrl": "https://www.google.com/maps?q=Vana+Vikas+Building,+18th+Cross,+Malleshwaram,+Bengaluru,+Karnataka+560003&z=16&output=embed"
+}

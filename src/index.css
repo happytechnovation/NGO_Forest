@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Re-skin the whole site from here (mirrors tailwind tokens) */
+    --color-primary: #2f6330;
+    --color-secondary: #65a834;
+    --color-accent: #84c252;
+    --color-surface: #ffffff;
+    --color-muted: #5b6b58;
+    --radius: 1rem;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream font-body text-forest-900 antialiased;
+  }
+
+  h1, h2, h3, h4, h5 {
+    @apply font-display text-forest-900;
+    text-wrap: balance;
+  }
+
+  ::selection {
+    @apply bg-leaf-200 text-forest-900;
+  }
+}
+
+@layer components {
+  /* Page section vertical rhythm */
+  .section {
+    @apply py-16 md:py-24;
+  }
+
+  /* Centered max-width container */
+  .container-x {
+    @apply mx-auto w-full max-w-container px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Eyebrow label above section titles */
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-sm font-semibold uppercase tracking-wider text-leaf-600;
+  }
+
+  /* Soft leaf-textured background */
+  .bg-leaf-pattern {
+    background-color: #f1f7f1;
+    background-image: radial-gradient(rgba(101, 168, 52, 0.08) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f7f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #8fbb8f;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #5e985e;
+}

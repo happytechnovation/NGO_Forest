@@ -1,0 +1,14 @@
+[
+  { "src": "/resources/gallery/hero-forest.webp", "alt": "Dense green forest canopy", "category": "Forests" },
+  { "src": "/resources/gallery/forest-1.webp", "alt": "Sunlight through tall trees", "category": "Forests" },
+  { "src": "/resources/gallery/forest-2.webp", "alt": "Lush green woodland", "category": "Forests" },
+  { "src": "/resources/gallery/forest-3.webp", "alt": "Forest trail and undergrowth", "category": "Forests" },
+  { "src": "/resources/gallery/forest-4.webp", "alt": "Green hillside landscape", "category": "Landscapes" },
+  { "src": "/resources/projects/medicinal-mysuru.webp", "alt": "Medicinal plants conservation, Mysuru", "category": "Projects" },
+  { "src": "/resources/projects/medicinal-shivamogga.webp", "alt": "Medicinal plants conservation, Shivamogga", "category": "Projects" },
+  { "src": "/resources/projects/retired-officers-assoc.webp", "alt": "Retired Forest Officers Association project", "category": "Projects" },
+  { "src": "/resources/projects/bamboo-livelihoods.jpg", "alt": "Bamboo basket weaving, Medara community livelihoods project", "category": "Community" },
+  { "src": "/resources/about/areas-of-work.jpg", "alt": "Our areas of work", "category": "Community" },
+  { "src": "/resources/about/values.jpg", "alt": "Our values in the field", "category": "Community" },
+  { "src": "/resources/about/commitment.jpg", "alt": "Our commitment to nature", "category": "Landscapes" }
+]
