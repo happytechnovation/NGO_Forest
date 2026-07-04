@@ -11,7 +11,7 @@ export function ContactPage() {
     <>
       <Seo
         title="Contact Us"
-        description="Get in touch with Treelands Foundation, Malleshwaram, Bengaluru 560003. Phone 080-23464866. Free technical advice, consultancy and CSR partnerships."
+        description="Get in touch with Treelands Foundation, Malleshwaram, Bengaluru 560 003. Phone 080-23464866 / 09481088570. Free technical advice, consultancy and CSR partnerships."
       />
       <PageHeader
         title="Contact Us"

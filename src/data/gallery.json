@@ -10,5 +10,6 @@
   { "src": "/resources/projects/bamboo-livelihoods.jpg", "alt": "Bamboo basket weaving, Medara community livelihoods project", "category": "Community" },
   { "src": "/resources/about/areas-of-work.jpg", "alt": "Our areas of work", "category": "Community" },
   { "src": "/resources/about/values.jpg", "alt": "Our values in the field", "category": "Community" },
-  { "src": "/resources/about/commitment.jpg", "alt": "Our commitment to nature", "category": "Landscapes" }
+  { "src": "/resources/about/commitment.jpg", "alt": "Our commitment to nature", "category": "Landscapes" },
+  { "src": "/resources/gallery/urban-forest-manual.png", "alt": "The Bengaluru Urban Forest Manual 2025", "category": "Projects" }
 ]
